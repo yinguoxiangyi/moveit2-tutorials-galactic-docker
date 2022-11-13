@@ -1,0 +1,1 @@
+docker build -t moveit2-tutorial:v1 .
